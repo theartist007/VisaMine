@@ -1,0 +1,4 @@
+pandas==0.22
+matplotlib
+sklearn==0.19.1
+xgboost
